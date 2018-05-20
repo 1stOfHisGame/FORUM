@@ -8,6 +8,6 @@ Each type of user has different permissions in the forum regarding editing messa
 
 # Steps
 - Clone the repo in htdocs folder of XAMPP (Windows)
-- Start Apache and PHPMyAdmin
+- Start Apache and MySQL
 - Go to localhost/phpmyadmin/ in browser and import 'forum.sql' database from the repo
 - In another tab go to localhost/forum/login.html and start using the forum.
